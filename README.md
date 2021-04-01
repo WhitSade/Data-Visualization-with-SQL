@@ -1,4 +1,4 @@
-# **Data Visualization with SQL**
+# **Stack Overflow Tech Trends**
 
 
 ## Objectives
